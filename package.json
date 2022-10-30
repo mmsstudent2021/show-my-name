@@ -1,0 +1,22 @@
+{
+  "name": "showmyname-hhz",
+  "version": "1.0.0",
+  "description": "san kyi tar par",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmsstudent2021/show-my-name.git"
+  },
+  "keywords": [
+    "showmyname"
+  ],
+  "author": "hein htet zan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmsstudent2021/show-my-name/issues"
+  },
+  "homepage": "https://github.com/mmsstudent2021/show-my-name#readme"
+}
